@@ -1,0 +1,12 @@
+.form-search {
+  margin-top: 20px;
+}
+
+.form-search form input {
+  height: 30px;
+  margin-right: 10px;
+}
+
+.form-search form button {
+  height: 35px;
+}
