@@ -1,6 +1,3 @@
-
-
-
 .App-content {
   width: 100%;
   background-color: #282c34;
@@ -16,6 +13,6 @@
 
 .logo {
   width: 200px;
+  margin-top: 1rem;
+  margin-bottom: 1rem;
 }
-
-

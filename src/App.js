@@ -11,7 +11,7 @@ function App() {
     <section className="App">
       <header className="App-content">
         <Link to="/">
-          <img alt="Logo" className="logo" src={logo}/>
+          <img alt="Logo" className="logo" src={logo} />
         </Link>
         <Route path="/gif/:keyword" component={ListOfGif} />
         <Route path="/" component={Home} />
